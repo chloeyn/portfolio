@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "portfolio",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "portfolio.html#quarto",
+    "href": "portfolio.html#quarto",
+    "title": "portfolio",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Welcome\nThis is my portfolio website built with Quarto."
+  }
+]
