@@ -1,0 +1,16 @@
+# quarto build artifacts
+_site/
+
+# system
+.DS_Store
+Thumbs.db
+
+# python virtual environments
+venv/
+.venv/
+
+# node
+node_modules/
+
+# jupyter
+.ipynb_checkpoints/
