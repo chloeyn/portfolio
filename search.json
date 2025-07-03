@@ -18,6 +18,20 @@
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "Welcome\nThis is my portfolio website built with Quarto."
+    "text": "Welcome\nHeyo I’m testing this out."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Projects of some kind\nMy portfolio projects will go here."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hello\nThis is a placeholder about page."
   }
 ]
