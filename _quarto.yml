@@ -6,8 +6,18 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: home
+      - href: research.qmd
+        text: research
+      - href: art.qmd
+        text: art
       - href: about.qmd
-        text: About
-      - href: projects.qmd
-        text: Projects
+        text: about
+  search: false
+
+format:
+  html:
+    include-in-header: _sidebar.html
+    css: styles.css
+    toc: true
+    toc-location: right

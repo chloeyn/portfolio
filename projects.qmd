@@ -1,8 +1,0 @@
----
-title: "Projects"
-format: html
----
-
-# Projects of some kind
-
-My portfolio projects will go here.

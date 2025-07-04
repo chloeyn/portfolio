@@ -1,0 +1,10 @@
+---
+title: "Research"
+format: html
+---
+
+# Projects of some kind
+
+My portfolio projects will go here.
+
+# I want to have different summary cards, too
